@@ -1,4 +1,8 @@
 Novo recurso adicionado
 Novo recurso tela principal
 Inclusao tela de usuarios
+<<<<<<< HEAD
 Inclusao tela de clientes
+=======
+Inclusao tela de clientes + 
+>>>>>>> 6d1ac3642d147ab4e28ab41e443282c2b2e8d381
