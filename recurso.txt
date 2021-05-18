@@ -1,3 +1,4 @@
 Novo recurso adicionado
 Novo recurso tela principal
 Inclusao tela de usuarios
+Inclusao tela de clientes
